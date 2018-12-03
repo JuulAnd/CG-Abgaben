@@ -1,0 +1,10 @@
+C:\Users\Siegf\Documents\MedieninformatikWS18_19\Computergrafik\2.Semesterhälfte\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut08_FirstSteps\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+C:\Users\Siegf\Documents\MedieninformatikWS18_19\Computergrafik\2.Semesterhälfte\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut08_FirstSteps\bin\Debug\netstandard2.0\Tut08_FirstSteps.deps.json
+C:\Users\Siegf\Documents\MedieninformatikWS18_19\Computergrafik\2.Semesterhälfte\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut08_FirstSteps\bin\Debug\netstandard2.0\Tut08_FirstSteps.dll
+C:\Users\Siegf\Documents\MedieninformatikWS18_19\Computergrafik\2.Semesterhälfte\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut08_FirstSteps\bin\Debug\netstandard2.0\Tut08_FirstSteps.pdb
+C:\Users\Siegf\Documents\MedieninformatikWS18_19\Computergrafik\2.Semesterhälfte\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut08_FirstSteps\obj\Debug\netstandard2.0\Tut08_FirstSteps.csprojAssemblyReference.cache
+C:\Users\Siegf\Documents\MedieninformatikWS18_19\Computergrafik\2.Semesterhälfte\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut08_FirstSteps\obj\Debug\netstandard2.0\Tut08_FirstSteps.csproj.CoreCompileInputs.cache
+C:\Users\Siegf\Documents\MedieninformatikWS18_19\Computergrafik\2.Semesterhälfte\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut08_FirstSteps\obj\Debug\netstandard2.0\Tut08_FirstSteps.AssemblyInfoInputs.cache
+C:\Users\Siegf\Documents\MedieninformatikWS18_19\Computergrafik\2.Semesterhälfte\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut08_FirstSteps\obj\Debug\netstandard2.0\Tut08_FirstSteps.AssemblyInfo.cs
+C:\Users\Siegf\Documents\MedieninformatikWS18_19\Computergrafik\2.Semesterhälfte\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut08_FirstSteps\obj\Debug\netstandard2.0\Tut08_FirstSteps.dll
+C:\Users\Siegf\Documents\MedieninformatikWS18_19\Computergrafik\2.Semesterhälfte\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut08_FirstSteps\obj\Debug\netstandard2.0\Tut08_FirstSteps.pdb

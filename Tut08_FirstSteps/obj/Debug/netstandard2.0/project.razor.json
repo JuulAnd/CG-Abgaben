@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Siegf\\Documents\\MedieninformatikWS18_19\\Computergrafik\\2.Semesterhälfte\\ComputergrafikMIB-master\\ComputergrafikMIB-master\\Tut08_FirstSteps\\Tut08_FirstSteps.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
